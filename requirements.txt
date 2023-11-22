@@ -3,3 +3,4 @@ flask_cors
 subprocess32
 shazamio
 asyncio
+gunicorn
